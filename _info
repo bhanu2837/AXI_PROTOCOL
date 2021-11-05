@@ -1,0 +1,117 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Modelsim\altera\11.0
+vaxi_master
+Z1 !s100 :M_^DX]k9U2Aj1l^U>S[>0
+Z2 I4_RGM:QNeF@7`o>@]6:6O0
+Z3 VNWhVBX6bJ^mS;bh6KI`nM2
+Z4 dF:\Internship\Program_Files
+Z5 w1636097913
+Z6 8F:/Internship/Program_Files/AMBA_AXI_PROTOCOL.v
+Z7 FF:/Internship/Program_Files/AMBA_AXI_PROTOCOL.v
+L0 2
+Z8 OV;L;6.6d;45
+r1
+31
+Z9 !s102 -nocovercells
+Z10 o-work AMBA_AXI -nocovercells -O0
+!s85 0
+!s101 -O0
+vaxi_slave
+Z11 IU:]m<A31hH4QgmzL8A2a53
+Z12 V;e2^TNFKc0DHUe6hL>BZl0
+R4
+w0
+R6
+R7
+L0 76
+R8
+r1
+31
+R9
+R10
+Z13 !s100 L>iicc>>7jVBV_de_[LhD0
+!s85 0
+!s101 -O0
+vread_addr
+Z14 In[SX1UQLQdO?_6KgJozTJ2
+Z15 VN7KWE@b]<`0AcY]Rg8E8g0
+R4
+Z16 w1636057407
+R6
+R7
+L0 42
+R8
+r1
+31
+R9
+R10
+Z17 !s100 l>7FE<NdK0hA:UAbF4GE50
+!s85 0
+!s101 -O0
+vread_data
+Z18 I]=]9Hfoz[6bA=iHi2?FYg0
+Z19 VJhSALgX:VY2[:Q;ifgD[R1
+R4
+R16
+R6
+R7
+L0 58
+R8
+r1
+31
+R9
+R10
+Z20 !s100 GneK6XON>Kl5`><WLKEzV0
+!s85 0
+!s101 -O0
+vwrite_addr
+Z21 !s100 P8d^oLfZcUF=D2f4PFTMf3
+Z22 IenGS>_d3Za7XPfGiPlK9>0
+Z23 V^YU8PKaHlDdlS??DFL2ZS1
+R4
+R16
+R6
+R7
+L0 2
+R8
+r1
+31
+R9
+R10
+!s85 0
+!s101 -O0
+vwrite_data
+Z24 ISal2@_1mHfD[2_IX2bXB@3
+Z25 VgXE]dB3;GKSLZB^?Ol3?R1
+R4
+R16
+R6
+R7
+L0 19
+R8
+r1
+31
+R9
+R10
+Z26 !s100 V3HF>NCPnh3mfE^Xd^;8Z0
+!s85 0
+!s101 -O0
+vwrite_response
+Z27 IX=ooQigCA:U5g_b85XB_l1
+Z28 VP^nzUgJBfi_7Rf6lZZaNj3
+R4
+R16
+R6
+R7
+L0 32
+R8
+r1
+31
+R9
+R10
+Z29 !s100 i;3lf68@G65o4Zh7T6B7R3
+!s85 0
+!s101 -O0
